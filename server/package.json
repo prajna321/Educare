@@ -1,5 +1,5 @@
 {
-	"name": "studynotion-backend",
+	"name": "educare-backend",
 	"version": "1.0.0",
 	"description": "studynotion-backend",
 	"main": "index.js",
@@ -10,7 +10,7 @@
 	"keywords": [
 		"studynotion-backend"
 	],
-	"author": "Saikat Mukherjee",
+	"author": "Prajna Paul",
 	"license": "ISC",
 	"dependencies": {
 		"bcrypt": "^5.1.1",
